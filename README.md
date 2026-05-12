@@ -1,5 +1,9 @@
 # SGM Reverb
 
+> [!IMPORTANT]
+> This repository has been moved to **[SGM-DSP/SGM-Reverb](https://github.com/SGM-DSP/SGM-Reverb)**.
+> Please visit the new repository for the latest updates and development.
+
 High-function algorithmic reverb plug-in built with JUCE/CMake.
 
 ## Features
